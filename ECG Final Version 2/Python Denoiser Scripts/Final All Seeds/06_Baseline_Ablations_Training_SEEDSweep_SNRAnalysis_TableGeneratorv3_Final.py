@@ -36,7 +36,7 @@ import pandas as pd
 # CONFIG
 # =========================
 OUT_ROOT = Path(
-    r"\ECG_Denoiser\ECG Final Version 2"
+    r"ECG Final Version 2"
     r"\Final_ECG_Models_REVIEWER_PROOF_FIXED2_CAPMATCH_SEEDS_Final"
 )
 

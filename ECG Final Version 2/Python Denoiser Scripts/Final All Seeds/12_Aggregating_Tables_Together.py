@@ -54,7 +54,7 @@ import pandas as pd
 # CONFIG
 # ============================================================
 BASE_ROOT = Path(
-    r"\ECG_Denoiser\ECG Final Version 2"
+    r"ECG Final Version 2"
 )
 
 # ---- Source files ----

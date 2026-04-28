@@ -55,11 +55,11 @@ from scipy.signal import butter, filtfilt, find_peaks
 # CONFIG (UPDATE THESE)
 # =========================================================
 DATA_ROOT = Path(
-    r"\ECG_Denoiser\ECG Final Version 2\Ultimate_Denoiser_Dataset_FIXED2"
+    r"ECG Final Version 2\Ultimate_Denoiser_Dataset_FIXED2"
 )
 
 DENOISER_OUT_ROOT = Path(
-    r"\ECG_Denoiser\ECG Final Version 2\Final_ECG_Models_REVIEWER_PROOF_FIXED2_CAPMATCH_SEEDS_Final"
+    r"ECG Final Version 2\Final_ECG_Models_REVIEWER_PROOF_FIXED2_CAPMATCH_SEEDS_Final"
 )
 # Splits
 TRAIN_SPLIT = "Train"

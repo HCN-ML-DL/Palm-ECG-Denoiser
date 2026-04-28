@@ -97,7 +97,7 @@ NW = 0
 # PATHS (FIXED2 DATASET)
 # ============================================================
 DATA_ROOT = Path(
-    r"ECG_Denoiser\ECG Final Version 2\Ultimate_Denoiser_Dataset_FIXED2"
+    r"ECG Final Version 2\Ultimate_Denoiser_Dataset_FIXED2"
 )
 TRAIN_DIR = DATA_ROOT / "Train"
 VAL_DIR   = DATA_ROOT / "Val"
@@ -119,7 +119,7 @@ for p in [TRAIN_X, TRAIN_Y, VAL_X, VAL_Y, TEST_X, TEST_Y]:
     assert p.exists(), f"Missing: {p}"
 
 OUT_ROOT = Path(
-    r"ECG_Denoiser\ECG Final Version 2\Final_ECG_Models_REVIEWER_PROOF_FIXED2_CAPMATCH_SEEDS_Final"
+    r"ECG Final Version 2\Final_ECG_Models_REVIEWER_PROOF_FIXED2_CAPMATCH_SEEDS_Final"
 )
 OUT_ROOT.mkdir(parents=True, exist_ok=True)
 

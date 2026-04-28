@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 # PATHS (unchanged)
 # =========================================================
 DATA_ROOT = Path(
-    r"\ECG_Denoiser\ECG Final Version 2\Ultimate_Denoiser_Dataset_FIXED2"
+    r"ECG Final Version 2\Ultimate_Denoiser_Dataset_FIXED2"
 )
 
 OUT_ROOT = DATA_ROOT.parent / "Downstream_ResNet__EVAL_ALL_DENOISERS__SEEDSWEEP_Final"

@@ -42,11 +42,11 @@ from torch.utils.data import DataLoader, TensorDataset
 # CONFIG
 # ============================================================
 DATA_ROOT = Path(
-    r"\ECG_Denoiser\ECG Final Version 2\Ultimate_Denoiser_Dataset_FIXED2"
+    r"ECG Final Version 2\Ultimate_Denoiser_Dataset_FIXED2"
 )
 
 OUT_ROOT = Path(
-    r"\ECG_Denoiser\ECG Final Version 2\Final_ECG_Models_REVIEWER_PROOF_FIXED2_CAPMATCH_SEEDS_Final"
+    r"ECG Final Version 2\Final_ECG_Models_REVIEWER_PROOF_FIXED2_CAPMATCH_SEEDS_Final"
 )
 
 SPLITS_TO_EVAL = ["Train", "Val", "Test"]

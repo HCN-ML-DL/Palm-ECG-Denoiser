@@ -9,7 +9,7 @@ import pandas as pd
 # CONFIG
 # ============================================================
 EVAL_OUT_DIR = Path(
-    r"\ECG_Denoiser\ECG Final Version 2"
+    r"ECG Final Version 2"
     r"\HR_FIDELITY__EVAL_ALL_MODELS__BASEONLY__SEEDSWEEP_Final"
 )
 

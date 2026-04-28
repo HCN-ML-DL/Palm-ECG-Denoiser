@@ -41,7 +41,7 @@ import numpy as np
 # CONFIG
 # ============================================================
 EVAL_OUT_DIR = Path(
-    r"\ECG_Denoiser\ECG Final Version 2"
+    r"ECG Final Version 2"
     r"\RuleBased_BradyTachy__EVAL_ALL_MODELS__PTB_BASE__SEEDSWEEP_Final"
 )
 
