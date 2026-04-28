@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/16ITzxfP3qeXFnaH273o1cLkkHqJ-7oNy?usp=sha
 
 * **Additional Data Folder**
   `Hand Position`
-  → Required only for Part 1 (dataset creation pipeline)
+  → Required only for Part 1 (dataset creation pipeline). This dataset is the ECG data that was collected during this study from participants.
 
 ---
 
