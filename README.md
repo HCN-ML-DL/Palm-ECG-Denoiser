@@ -30,6 +30,61 @@ To mitigate this:
 * Final results are reported as **aggregated performance metrics**
 
 ---
+## 📥 Google Drive Resources
+
+The following resources are provided via Google Drive to support dataset setup and quick experimentation.
+
+---
+
+### 🔗 Downloads
+
+* **Prebuilt Dataset**
+  `Ultimate_Denoiser_Dataset_Fixed2`
+  → Use this to skip Part 1 (dataset construction)
+
+* **Additional Data Folder**
+  `Hand Position`
+  → Required only for Part 1 (dataset creation pipeline)
+
+---
+
+### 📦 Usage Instructions
+
+#### Option A — Skip Dataset Creation
+
+1. Download `Ultimate_Denoiser_Dataset_Fixed2`
+2. Place it inside:
+
+   ```
+   ECG Final Version 2/
+   ```
+3. Proceed directly to **Part 2**
+
+---
+
+#### Option B — Full Dataset Construction
+
+1. Download `Hand Position`
+2. Place it inside:
+
+   ```
+   ECG Finalized2/
+   ```
+3. Follow Part 1 instructions to build the dataset from scratch
+
+---
+
+### ⚠️ Notes
+
+* Ensure correct folder placement before running scripts
+* Do **not rename folders**, as scripts may depend on fixed paths
+* Large files may require sufficient storage and stable internet connection
+
+---
+
+### 📌 Link
+
+https://drive.google.com/drive/folders/16ITzxfP3qeXFnaH273o1cLkkHqJ-7oNy?usp=sharing
 
 ## ⚡ Quick Start (Skip Dataset Creation)
 
