@@ -294,7 +294,8 @@ If you use this work, please cite:
 
 ## 👤 Author
 
-(Add your name, institution, and contact details)
+1. Hiritish Chidambaram N, Student at VIT Vellore
+2. Dr. Anisha M. Lal, Grade 1 Professor at VIT Vellore
 
 ---
 
