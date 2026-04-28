@@ -34,6 +34,7 @@ To mitigate this:
 
 The following resources are provided via Google Drive to support dataset setup and quick experimentation.
 
+https://drive.google.com/drive/folders/16ITzxfP3qeXFnaH273o1cLkkHqJ-7oNy?usp=sharing
 ---
 
 ### 🔗 Downloads
